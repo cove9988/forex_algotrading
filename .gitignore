@@ -18,6 +18,7 @@ lib/
 lib64/
 parts/
 sdist/
+aglotxenv/
 var/
 *.egg-info/
 .installed.cfg
@@ -57,3 +58,4 @@ docs/_build/
 target/
 
 *.*~
+ml/ml.py
