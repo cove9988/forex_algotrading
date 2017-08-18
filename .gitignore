@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 aglotxenv/
+data/
 var/
 *.egg-info/
 .installed.cfg
